@@ -3,4 +3,4 @@ SudoBook
 
 This is the SudoRoom Book
 
-This is Yardenac's addition to the book.
+This is asimov0's addition to the book.
